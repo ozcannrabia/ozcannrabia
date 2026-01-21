@@ -1,5 +1,5 @@
 ### 👋 Welcome, Visitor!
-![Welcome Message](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&background=000000&center=true&vCenter=true&width=700&lines=I+love+coding!;I+love+creating!;MIS+Student+@+Dokuz+Eylul+University;Full-Stack+Developer+%26+Data+Enthusiast.)
+![Welcome Message](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&background=000000&center=true&vCenter=true&width=700&lines=I'm+Rabia!;MIS+Student+@+Dokuz+Eylul+University;I+love+coding!;I+love+creating!;Interested+in+Full-Stack+Development.)
 
 ---
 
@@ -32,13 +32,13 @@
 ---
 
 ### 📖 About Me
-I am a **Management Information Systems (MIS)** student at **Dokuz Eylül University**. I am a developer passionate about building dynamic web applications and data-driven dashboards. I truly love coding and I'm always excited about creating new digital solutions!
+I am Rabia, a **Management Information Systems (MIS)** student. I truly love coding and I'm always excited about creating new digital solutions! Currently, I am deeply interested in **Full-Stack Development**, building both efficient backend systems and user-friendly interfaces.
 
 I am sharing some of the projects and works I have completed throughout my academic journey here!
 
-- 🌱 Currently focusing on **Node.js** and **Express.js** to build scalable applications.
+- 🌱 Focusing on **Node.js** and **Express.js** to build scalable applications.
 - 📉 Visualizing data insights using **Chart.js** and **Python**.
-- 🎨 Designing modern and user-friendly interfaces with **Figma**.
+- 🎨 Designing modern interfaces with **Figma**.
 
 ---
 
@@ -49,13 +49,13 @@ I am sharing some of the projects and works I have completed throughout my acade
 * Built with a focus on efficient management and user-friendly interaction.
 
 #### 👟 Superstep - Branch Sales & Customer Analysis Panel
-* Created a detailed dashboard for branch sales and customer analysis as part of a Decision Support Systems course.
+* Created a detailed dashboard for branch sales and customer analysis.
 * Focused on transforming retail data into actionable business insights.
 
-#### 🎵 Sony Music Türkiye - Artist & Sales Performance Dashboard
-* Designed a performance-tracking dashboard specifically for the music industry.
-* Integrated data visualization to monitor artist impact and sales trends.
-
+#### 🍱 Manjog - UX-Focused & Culturally Context-Aware Mobile App
+* Designed a mobile interface for Far Eastern cuisine, named after the Korean word for "satisfaction" (Manjog).
+* Applied **HCI theories** (Shneiderman, Norman, Suchman) to create a user-centric design with a seamless ordering flow.
+* Developed a comprehensive **UI Kit in Figma** through user research and contextual analysis to ensure a consistent and reusable interface.
 ---
 
 ### 🧠 Skills & Expertise
