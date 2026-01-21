@@ -1,47 +1,74 @@
 ### 👋 Welcome, Visitor!
-![Welcome Message](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&background=000000&center=true&vCenter=true&width=700&lines=Hello+there!+I'm+Rabia;I'm+a+rookie+on+my+way+to+becoming+a+data+scientist.)
-
-
+![Welcome Message](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&background=000000&center=true&vCenter=true&width=700&lines=I+love+coding!;I+love+creating!;MIS+Student+@+Dokuz+Eylul+University;Full-Stack+Developer+%26+Data+Enthusiast.)
 
 ---
 
-### 🛠 Libraries & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Marimo-202020?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Marimo">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+### 🛠 Tech Stack
+
+#### 🌐 Web & Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
+#### 📊 Data & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js">
+</p>
+
+#### 🎨 Design & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 ---
 
-Welcome to my GitHub profile!
-I am an aspiring data scientist and I am truly excited about this journey. I am passionate about developing myself in the world of data science, acquiring new knowledge, and learning more every day. It will be a great pleasure for me to share more information about the areas I am interested in and the projects I am working on.
+### 📖 About Me
+I am a **Management Information Systems (MIS)** student at **Dokuz Eylül University**. I am a developer passionate about building dynamic web applications and data-driven dashboards. I truly love coding and I'm always excited about creating new digital solutions!
 
-I am enthusiastic about developing data-driven solutions, solving complex problems, and tackling real-world challenges. Throughout this journey, applying what I learn and contributing with the projects I share serves as a major source of motivation in shaping my career.
+I am sharing some of the projects and works I have completed throughout my academic journey here!
 
-Discovering new things at every step and keeping up with developments in the field of data science is what keeps me motivated. I can't wait to share my excitement and experiences with you! 🚀  
+- 🌱 Currently focusing on **Node.js** and **Express.js** to build scalable applications.
+- 📉 Visualizing data insights using **Chart.js** and **Python**.
+- 🎨 Designing modern and user-friendly interfaces with **Figma**.
 
 ---
-🧠 Skills & Expertise
-Programming: Python, SQL, C#, HTML
-Data Analysis Tools: Pandas, NumPy, Matplotlib, Seaborn
-Machine Learning: scikit-learn
-Data Visualization: Power BI, Tableau
-Databases: MySQL
-Other Tools: Git, Jupyter Notebook, Google Colab, PyCharm
+
+### 🚀 Featured Projects
+
+#### 🐾 Petify - Animal Shelter Management System
+* Developed a comprehensive system designed to streamline animal shelter operations.
+* Built with a focus on efficient management and user-friendly interaction.
+
+#### 👟 Superstep - Branch Sales & Customer Analysis Panel
+* Created a detailed dashboard for branch sales and customer analysis as part of a Decision Support Systems course.
+* Focused on transforming retail data into actionable business insights.
+
+#### 🎵 Sony Music Türkiye - Artist & Sales Performance Dashboard
+* Designed a performance-tracking dashboard specifically for the music industry.
+* Integrated data visualization to monitor artist impact and sales trends.
+
 ---
 
+### 🧠 Skills & Expertise
+* **Languages:** JavaScript, Python, SQL, C#, HTML
+* **Backend:** Node.js, Express.js, EJS
+* **Frontend:** CSS, HTML, Chart.js
+* **Databases:** MySQL
+* **Design & Dev Tools:** Figma, VS Code, Git
 
 ---
 
 ### 📫 How to Reach Me
-- *Email:* [rabiaozcan02@gmail.com](rabiaozcan02@gmail.com)
-- *LinkedIn:* [https://www.linkedin.com/in/rabia-%C3%B6zcan-1741ab254/](https://www.linkedin.com/in/rabia-%C3%B6zcan-1741ab254/)
+- 📧 *Email:* [rabiaozcan02@gmail.com](mailto:rabiaozcan02@gmail.com)
+- 🔗 *LinkedIn:* [Rabia Özcan](https://www.linkedin.com/in/rabia-%C3%B6zcan-1741ab254/)
 
 ---
-
