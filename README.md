@@ -57,7 +57,7 @@ I am sharing some of the projects and works I have completed throughout my acade
 * Applied **HCI theories** (Shneiderman, Norman, Suchman) to create a user-centric design with a seamless ordering flow.
 * Developed a comprehensive **UI Kit in Figma** through user research and contextual analysis to ensure a consistent and reusable interface.
 
-#### 🚀 Neon CV AI Scanner — AI-Powered Career Analysis App
+#### 🚀 CV AI Scanner — AI-Powered Career Analysis Mobile App
 * Developed a mobile application that provides real-time CV analysis and career coaching using Google Gemini 2.5 Flash API.
 * Integrated multimodal AI to deliver objective scoring and actionable professional feedback based on 2026 HR standards.
 * Crafted a futuristic "Glassmorphism" interface inspired by Apple’s design language and new media art aesthetics to transform data into a visual experience.
