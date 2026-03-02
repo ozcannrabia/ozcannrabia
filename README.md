@@ -71,15 +71,15 @@ Backend: Python, FastAPI, SQLAlchemy, SQLite, Pandas
 Frontend: React 18, SVG-based charts, CSS design token architecture
 
 Core System Features:
-• Activity ingestion from structured CSV datasets (users, groups, activity events)
-• Real-time daily & 7-day metric computation (messages, reactions, group diversity)
-• Rule-based dynamic challenge engine (data-driven conditions)
-• Conflict resolution mechanism (priority-based reward selection)
-• Ledger-based point tracking system for financial-grade consistency
-• Automated leaderboard ranking (tie-break logic included)
-• Badge threshold engine (Bronze, Silver, Gold Social tiers)
-• Notification generation system
-• Interactive dashboard with user metrics, triggered challenges, leaderboard & badge visualization
+*  Activity ingestion from structured CSV datasets (users, groups, activity events)
+*  Real-time daily & 7-day metric computation (messages, reactions, group diversity)
+*  Rule-based dynamic challenge engine (data-driven conditions)
+*  Conflict resolution mechanism (priority-based reward selection)
+*  Ledger-based point tracking system for financial-grade consistency
+*  Automated leaderboard ranking (tie-break logic included)
+*  Badge threshold engine (Bronze, Silver, Gold Social tiers)
+*  Notification generation system
+*  Interactive dashboard with user metrics, triggered challenges, leaderboard & badge visualization
 ---
 
 ### 🧠 Skills & Expertise
