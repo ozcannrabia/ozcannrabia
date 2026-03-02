@@ -61,6 +61,25 @@ I am sharing some of the projects and works I have completed throughout my acade
 * Developed a mobile application that provides real-time CV analysis and career coaching using Google Gemini 2.5 Flash API.
 * Integrated multimodal AI to deliver objective scoring and actionable professional feedback based on 2026 HR standards.
 * Crafted a futuristic "Glassmorphism" interface inspired by Apple’s design language and new media art aesthetics to transform data into a visual experience.
+
+#### 📱 Turkcell BiP Social Arena League — Gamified Engagement & Leaderboard System (Codenight Case)
+
+Developed a data-driven gamification engine that analyzes messaging and group interaction activities to generate challenges, reward points, badges, and dynamic social leaderboards.
+
+Tech Stack:
+Backend: Python, FastAPI, SQLAlchemy, SQLite, Pandas
+Frontend: React 18, SVG-based charts, CSS design token architecture
+
+Core System Features:
+• Activity ingestion from structured CSV datasets (users, groups, activity events)
+• Real-time daily & 7-day metric computation (messages, reactions, group diversity)
+• Rule-based dynamic challenge engine (data-driven conditions)
+• Conflict resolution mechanism (priority-based reward selection)
+• Ledger-based point tracking system for financial-grade consistency
+• Automated leaderboard ranking (tie-break logic included)
+• Badge threshold engine (Bronze, Silver, Gold Social tiers)
+• Notification generation system
+• Interactive dashboard with user metrics, triggered challenges, leaderboard & badge visualization
 ---
 
 ### 🧠 Skills & Expertise
